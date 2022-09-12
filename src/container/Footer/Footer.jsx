@@ -44,7 +44,7 @@ function Footer() {
             <div className="app__footer-cards">
                 <div className="app__footer-card">
                     <img src={images.email} alt='email' />
-                    <a href="mailto:tankgum99@outlook.com" className="p-text">mail to: tankgum99@outlook.com</a>
+                    <a href="mailto:tankgum99@outlook.com" className="p-text">mail to: trantienanh99@outlook.com</a>
                 </div>
                 <div className="app__footer-card">
                     <img src={images.mobile} alt='mobile' />
